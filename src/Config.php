@@ -8,9 +8,9 @@ Class Config {
    
   static $facebookCredentials = [
 
-    'verifyToken' => 'politricks',
+    'verifyToken' => 'example',
 
-    'accessToken' => 'EAALGjd6t0LkBADQ1xV9JCIV9CR77VvDEtOjcshyn4zhnCZBgjamp7kcNVesE6zPiKz0GGZC3jDUeupFQmtb59JhrbKBIQl9v9JOdFmlLZCGXbEZB7t5ZCEZC1St1HbqgVQZCBAkL26K73qzrFAdXsxllr619fx9MYEQr7ZCE7FZABhQjU7dCbAsoM'
+    'accessToken' => 'EAAUfTVwnitUBAJxTMzZBJ59ZCAKz9d2QFuzX8sZBAZBcJlCtFdMh5Xb7YiEj9BL7pYiNvKdl0LtRwLqAZCfYdd30Bwg0x6oETk2ldqKgFzpSnQYndx9boB6Jlmgp2cYZCvnNwJAjRVpDahCIWrbLLbZCgGDZAcbAQQghyHu1PZCDeSSbDABiT10Oo'
 
   ];
 
