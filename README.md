@@ -6,4 +6,5 @@ A messenger bot that replies "Hello coder" to every message, I hope it helps you
 * Use index.php as application entry point
 
 # How do I host
-* You should consider [Heroku](heroku.com) or any other hosting service
+* You should consider [Heroku](https://www.heroku.com/) or any other hosting service
+
